@@ -10,5 +10,5 @@ for indice in range(1, 5):
         print('error')
     answer = input('type aswer: ')
 
-    indice = + 1
+    index1 = + 1
 
